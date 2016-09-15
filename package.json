@@ -1,15 +1,16 @@
 {
-  "name": "duotone-syntax",
-  "theme": "syntax",
-  "version": "2.0.0",
-  "description": "Master template for DuoTone syntax themes",
-  "keywords": [
-    "duotone",
-    "syntax"
-  ],
-  "repository": "https://github.com/simurai/duotone-syntax",
-  "license": "MIT",
-  "engines": {
-    "atom": ">1.0.0"
-  }
+    "name": "duotone-plangrid-syntax",
+    "theme": "syntax",
+    "version": "1.0.0",
+    "description": "Syntax highlighting based upon Simurai's DuoTone Syntax",
+    "keywords": [
+        "duotone",
+        "syntax",
+        "plangrid"
+    ],
+    "repository": "https://github.com/jessedodds/duotone-plangrid-syntax",
+    "license": "MIT",
+    "engines": {
+        "atom": ">1.0.0"
+    }
 }
